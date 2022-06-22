@@ -1,1 +1,0 @@
-const t={key:"v-acb1c254",path:"/js_base_intensify/%E9%97%AD%E5%8C%85/TDZ.html",title:"TDZ",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1650546085e3,contributors:[{name:"\u5F90\u6CFD",email:"569552263@qq.com",commits:1}]},filePathRelative:"js_base_intensify/\u95ED\u5305/TDZ.md"};export{t as data};

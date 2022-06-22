@@ -1,1 +1,0 @@
-const e={key:"v-210ef91c",path:"/js_base_intensify/API%E5%AE%9E%E7%8E%B0/promise%E5%AE%9E%E7%8E%B0.html",title:"promise\u5B9E\u73B0",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1651802819e3,contributors:[{name:"\u5F90\u6CFD",email:"569552263@qq.com",commits:1}]},filePathRelative:"js_base_intensify/API\u5B9E\u73B0/promise\u5B9E\u73B0.md"};export{e as data};
