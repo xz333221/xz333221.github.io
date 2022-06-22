@@ -1,0 +1,1 @@
+const t={key:"v-9f9ccf36",path:"/psychology/%E5%8F%8B%E6%83%85.html",title:"\u4EBA\u7684\u5E78\u798F\u611F\u91CD\u8981\u6765\u6E90\uFF1A\u53CB\u60C5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1652630104e3,contributors:[{name:"\u5F90\u6CFD",email:"569552263@qq.com",commits:1}]},filePathRelative:"psychology/\u53CB\u60C5.md"};export{t as data};
